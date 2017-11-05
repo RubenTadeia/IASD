@@ -1,0 +1,109 @@
+Solving pers3.txt
+Found goal state!
+Number of nodes explored:  1411
+Number of nodes still in frontier:  0
+Branching factor is:  2.306000000000442
+13082017  VS   69.856
+14082017  VCM VSTM   111.02
+15082017  VK   107.352
+16082017  VK1   70.24
+17082017  VP   69.88
+18082017  VK2   125.352
+19082017  VDM   63.72
+20082017  VPM   64.852
+682.2719999999999
+Solving pers3.txt took 0.7722897529602051 seconds 
+
+
+Solving pers5.txt
+Found goal state!
+Number of nodes explored:  151
+Number of nodes still in frontier:  12
+Branching factor is:  5.080200000001499
+13082017  V1   101.0
+16082017  V4 V3   51.0
+17082017  V5 V2   51.0
+203.0
+Solving pers5.txt took 0.0592806339263916 seconds 
+
+
+Solving pers6.txt
+Found goal state!
+Number of nodes explored:  20
+Number of nodes still in frontier:  1
+Branching factor is:  4.000000000004016
+13082017  V1 V3   3.0
+15082017  V5 V2 V4   2.5
+5.5
+Solving pers6.txt took 0.03428459167480469 seconds 
+
+
+Solving simple1.txt
+Found goal state!
+Number of nodes explored:  566
+Number of nodes still in frontier:  0
+Branching factor is:  3.306400000002553
+01012020  V4a V4b V4   12.0
+02022020  V3   20.0
+03032020  V2b V2 V2a   36.0
+04042020  V5   40.0
+05052020  V1   50.0
+158.0
+Solving simple1.txt took 0.43465566635131836 seconds 
+
+
+Solving pers1.txt
+Found goal state!
+Number of nodes explored:  11
+Number of nodes still in frontier:  0
+Branching factor is:  1.737399999999825
+01010001  V2 V1 Vb Vc V4   3.5
+02020002  Vd V3   11.0
+03030003  Va   90.0
+104.5
+Solving pers1.txt took 0.02847886085510254 seconds 
+
+
+Solving pers4.txt
+Found goal state!
+Number of nodes explored:  7488
+Number of nodes still in frontier:  223
+Branching factor is:  19.4109999999681
+13082017  VCM   101.0
+16082017  VK VDM VS VSTM VK2   42.5
+17082017  VP VPM VK1   56.0
+199.5
+Solving pers4.txt took 9.036574840545654 seconds 
+
+
+Solving trivial2.txt
+Found goal state!
+Number of nodes explored:  12
+Number of nodes still in frontier:  6
+Branching factor is:  17.00009999997372
+01032018  V1 V2 V3   52.0
+52.0
+Solving trivial2.txt took 0.12770819664001465 seconds 
+
+
+Solving trivial1.txt
+Found goal state!
+Number of nodes explored:  11
+Number of nodes still in frontier:  0
+Branching factor is:  1.737399999999825
+01012018  V3   47.0
+01022018  V2   34.0
+01032018  V1   86.0
+167.0
+Solving trivial1.txt took 0.018196821212768555 seconds 
+
+
+Solving mir.txt
+Found goal state!
+Number of nodes explored:  13807
+Number of nodes still in frontier:  27035
+06062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VSTM VK2 VK VDM VP VPM VS   202.64
+312.28
+Solving mir.txt took 1265.4927999973297 seconds

@@ -1,0 +1,80 @@
+Heuristic - Total weight of components on earth
+
+Found goal state!
+Number of nodes explored:  3737
+Number of nodes still in frontier:  14574
+06062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VSTM VK2 VS VP VDM VPM VK   202.64
+312.28
+Informed Search took 368.98424077033997 seconds
+
+
+
+
+
+
+-----------------mir → pc do Ruben ----------------
+→ → → Heuristica = Peso de componentes na terra
+Found goal state!
+Number of nodes explored:  3737
+Number of nodes still in frontier:  14574
+06062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VPM VSTM VDM VK VK2 VP VS   202.64
+312.28
+Informed Search took 137.6742250919342 seconds
+
+
+Branching Factor  - Informed
+N = 18311
+d = 3
+b = 26,016
+
+
+→ → → Heuristica = Numero de peças que ficam na terra
+Found goal state!
+Number of nodes explored:  13023
+Number of nodes still in frontier:  26724
+Branching factor is:  33.78729999999809
+06062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VP VK VK2 VDM VS VSTM VPM   202.64
+312.28
+Informed Search took 1188.162620306015 seconds
+
+
+→ → → Heuristica = Peso que fica em terra *2.2
+Found goal state!
+Number of nodes explored:  261
+Number of nodes still in frontier:  1099
+Branching factor is:  10.723999999988346
+22062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VPM VSTM VDM VK VS VK2 VP   202.64
+312.28
+Informed Search took 0.3596465587615967 seconds
+
+-----------------------------------------------------
+
+
+
+
+
+
+-------------- mir UNINFORMED ---------------------
+Found goal state!
+Number of nodes explored:  13807
+Number of nodes still in frontier:  27035
+06062018  VK1   57.24
+01082018  VCM   52.4
+16082018  VSTM VK2 VK VDM VP VPM VS   202.64
+312.28
+Uninformed Search took 1265.4927999973297 seconds
+
+Branching Factor  - Uninformed
+N = 40842
+d = 3
+b = 34,174
+-----------------------------------------------------
+

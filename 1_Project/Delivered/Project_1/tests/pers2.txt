@@ -1,0 +1,30 @@
+# vertices
+VCM  20.4
+VDM   4.3
+VK   9.64
+VK1  20.6
+VK2  19.64
+VP   19.7
+VPM   7.13
+VS   19.64
+VSTM  7.15
+
+# edges
+E VPM VK1
+E VK1 VCM
+E VCM VP
+E VCM VS
+E VCM VSTM
+E VCM VK
+E VCM VK2
+E VK  VDM
+
+# launches
+L 13082017 22.8     62 0.4
+L 15082017 10       90 1.8
+L 16082017 20.7     62 0.4
+L 17082017 20       62 0.4
+L 18082017 20       90 1.8
+L 19082017 8        62 0.4
+L 14082017 29       100 0.4
+L 20082017 8        62 0.4

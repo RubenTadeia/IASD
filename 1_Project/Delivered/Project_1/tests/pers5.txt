@@ -1,0 +1,16 @@
+# vertices
+V1  9
+V2  10
+V3  11
+V4  2
+V5  3
+# edges
+E V1 V2
+E V1 V3
+E V3 V4
+E V3 V5
+
+# launches
+L 13082017 20      1 0.1
+L 15082017 15      1 0.1
+L 16082017 7       1 0.1
